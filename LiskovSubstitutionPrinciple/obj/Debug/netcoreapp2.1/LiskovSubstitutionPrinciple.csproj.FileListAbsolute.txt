@@ -1,0 +1,11 @@
+C:\Users\icagr\Desktop\TryOuts\LiskovSubstitutionPrinciple\bin\Debug\netcoreapp2.1\LiskovSubstitutionPrinciple.deps.json
+C:\Users\icagr\Desktop\TryOuts\LiskovSubstitutionPrinciple\bin\Debug\netcoreapp2.1\LiskovSubstitutionPrinciple.runtimeconfig.json
+C:\Users\icagr\Desktop\TryOuts\LiskovSubstitutionPrinciple\bin\Debug\netcoreapp2.1\LiskovSubstitutionPrinciple.runtimeconfig.dev.json
+C:\Users\icagr\Desktop\TryOuts\LiskovSubstitutionPrinciple\bin\Debug\netcoreapp2.1\LiskovSubstitutionPrinciple.dll
+C:\Users\icagr\Desktop\TryOuts\LiskovSubstitutionPrinciple\bin\Debug\netcoreapp2.1\LiskovSubstitutionPrinciple.pdb
+C:\Users\icagr\Desktop\TryOuts\LiskovSubstitutionPrinciple\obj\Debug\netcoreapp2.1\LiskovSubstitutionPrinciple.csprojAssemblyReference.cache
+C:\Users\icagr\Desktop\TryOuts\LiskovSubstitutionPrinciple\obj\Debug\netcoreapp2.1\LiskovSubstitutionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\icagr\Desktop\TryOuts\LiskovSubstitutionPrinciple\obj\Debug\netcoreapp2.1\LiskovSubstitutionPrinciple.AssemblyInfoInputs.cache
+C:\Users\icagr\Desktop\TryOuts\LiskovSubstitutionPrinciple\obj\Debug\netcoreapp2.1\LiskovSubstitutionPrinciple.AssemblyInfo.cs
+C:\Users\icagr\Desktop\TryOuts\LiskovSubstitutionPrinciple\obj\Debug\netcoreapp2.1\LiskovSubstitutionPrinciple.dll
+C:\Users\icagr\Desktop\TryOuts\LiskovSubstitutionPrinciple\obj\Debug\netcoreapp2.1\LiskovSubstitutionPrinciple.pdb
