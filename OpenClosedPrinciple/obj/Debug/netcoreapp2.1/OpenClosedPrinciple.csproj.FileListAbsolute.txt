@@ -1,0 +1,11 @@
+C:\Users\icagr\Desktop\TryOuts\OpenClosedPrinciple\bin\Debug\netcoreapp2.1\OpenClosedPrinciple.deps.json
+C:\Users\icagr\Desktop\TryOuts\OpenClosedPrinciple\bin\Debug\netcoreapp2.1\OpenClosedPrinciple.runtimeconfig.json
+C:\Users\icagr\Desktop\TryOuts\OpenClosedPrinciple\bin\Debug\netcoreapp2.1\OpenClosedPrinciple.runtimeconfig.dev.json
+C:\Users\icagr\Desktop\TryOuts\OpenClosedPrinciple\bin\Debug\netcoreapp2.1\OpenClosedPrinciple.dll
+C:\Users\icagr\Desktop\TryOuts\OpenClosedPrinciple\bin\Debug\netcoreapp2.1\OpenClosedPrinciple.pdb
+C:\Users\icagr\Desktop\TryOuts\OpenClosedPrinciple\obj\Debug\netcoreapp2.1\OpenClosedPrinciple.csprojAssemblyReference.cache
+C:\Users\icagr\Desktop\TryOuts\OpenClosedPrinciple\obj\Debug\netcoreapp2.1\OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\icagr\Desktop\TryOuts\OpenClosedPrinciple\obj\Debug\netcoreapp2.1\OpenClosedPrinciple.AssemblyInfoInputs.cache
+C:\Users\icagr\Desktop\TryOuts\OpenClosedPrinciple\obj\Debug\netcoreapp2.1\OpenClosedPrinciple.AssemblyInfo.cs
+C:\Users\icagr\Desktop\TryOuts\OpenClosedPrinciple\obj\Debug\netcoreapp2.1\OpenClosedPrinciple.dll
+C:\Users\icagr\Desktop\TryOuts\OpenClosedPrinciple\obj\Debug\netcoreapp2.1\OpenClosedPrinciple.pdb

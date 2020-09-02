@@ -1,0 +1,11 @@
+C:\Users\icagr\Desktop\TryOuts\SingleResponsibilityPrinciple\obj\Debug\netcoreapp2.1\SingleResponsibilityPrinciple.csprojAssemblyReference.cache
+C:\Users\icagr\Desktop\TryOuts\SingleResponsibilityPrinciple\obj\Debug\netcoreapp2.1\SingleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\icagr\Desktop\TryOuts\SingleResponsibilityPrinciple\obj\Debug\netcoreapp2.1\SingleResponsibilityPrinciple.AssemblyInfoInputs.cache
+C:\Users\icagr\Desktop\TryOuts\SingleResponsibilityPrinciple\obj\Debug\netcoreapp2.1\SingleResponsibilityPrinciple.AssemblyInfo.cs
+C:\Users\icagr\Desktop\TryOuts\SingleResponsibilityPrinciple\bin\Debug\netcoreapp2.1\SingleResponsibilityPrinciple.deps.json
+C:\Users\icagr\Desktop\TryOuts\SingleResponsibilityPrinciple\bin\Debug\netcoreapp2.1\SingleResponsibilityPrinciple.runtimeconfig.json
+C:\Users\icagr\Desktop\TryOuts\SingleResponsibilityPrinciple\bin\Debug\netcoreapp2.1\SingleResponsibilityPrinciple.runtimeconfig.dev.json
+C:\Users\icagr\Desktop\TryOuts\SingleResponsibilityPrinciple\bin\Debug\netcoreapp2.1\SingleResponsibilityPrinciple.dll
+C:\Users\icagr\Desktop\TryOuts\SingleResponsibilityPrinciple\bin\Debug\netcoreapp2.1\SingleResponsibilityPrinciple.pdb
+C:\Users\icagr\Desktop\TryOuts\SingleResponsibilityPrinciple\obj\Debug\netcoreapp2.1\SingleResponsibilityPrinciple.dll
+C:\Users\icagr\Desktop\TryOuts\SingleResponsibilityPrinciple\obj\Debug\netcoreapp2.1\SingleResponsibilityPrinciple.pdb

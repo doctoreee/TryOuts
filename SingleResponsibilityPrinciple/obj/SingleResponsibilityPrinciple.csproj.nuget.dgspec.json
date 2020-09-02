@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\icagr\\Desktop\\TryOuts\\SingleResponsibilityPrinciple\\SingleResponsibilityPrinciple.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\icagr\\Desktop\\TryOuts\\SingleResponsibilityPrinciple\\SingleResponsibilityPrinciple.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\icagr\\Desktop\\TryOuts\\SingleResponsibilityPrinciple\\SingleResponsibilityPrinciple.csproj",
+        "projectName": "SingleResponsibilityPrinciple",
+        "projectPath": "C:\\Users\\icagr\\Desktop\\TryOuts\\SingleResponsibilityPrinciple\\SingleResponsibilityPrinciple.csproj",
+        "packagesPath": "C:\\Users\\icagr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\icagr\\Desktop\\TryOuts\\SingleResponsibilityPrinciple\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\icagr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
