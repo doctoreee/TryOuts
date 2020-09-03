@@ -1,0 +1,11 @@
+C:\Users\icagr\Desktop\TryOuts\DependencyInversionPrinciple\obj\Debug\netcoreapp2.1\DependencyInversionPrinciple.csprojAssemblyReference.cache
+C:\Users\icagr\Desktop\TryOuts\DependencyInversionPrinciple\obj\Debug\netcoreapp2.1\DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\icagr\Desktop\TryOuts\DependencyInversionPrinciple\obj\Debug\netcoreapp2.1\DependencyInversionPrinciple.AssemblyInfoInputs.cache
+C:\Users\icagr\Desktop\TryOuts\DependencyInversionPrinciple\obj\Debug\netcoreapp2.1\DependencyInversionPrinciple.AssemblyInfo.cs
+C:\Users\icagr\Desktop\TryOuts\DependencyInversionPrinciple\bin\Debug\netcoreapp2.1\DependencyInversionPrinciple.deps.json
+C:\Users\icagr\Desktop\TryOuts\DependencyInversionPrinciple\bin\Debug\netcoreapp2.1\DependencyInversionPrinciple.runtimeconfig.json
+C:\Users\icagr\Desktop\TryOuts\DependencyInversionPrinciple\bin\Debug\netcoreapp2.1\DependencyInversionPrinciple.runtimeconfig.dev.json
+C:\Users\icagr\Desktop\TryOuts\DependencyInversionPrinciple\bin\Debug\netcoreapp2.1\DependencyInversionPrinciple.dll
+C:\Users\icagr\Desktop\TryOuts\DependencyInversionPrinciple\bin\Debug\netcoreapp2.1\DependencyInversionPrinciple.pdb
+C:\Users\icagr\Desktop\TryOuts\DependencyInversionPrinciple\obj\Debug\netcoreapp2.1\DependencyInversionPrinciple.dll
+C:\Users\icagr\Desktop\TryOuts\DependencyInversionPrinciple\obj\Debug\netcoreapp2.1\DependencyInversionPrinciple.pdb
