@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\CAGRI.TEZEL\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\CAGRI.TEZEL\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}

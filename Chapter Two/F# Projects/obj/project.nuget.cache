@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3FPfUY/yAgIEwRAYB2Jhd6ImEbkuZn23RNm/nDvznIl6uQ/Jx6KscR9IY8yi/y5nUUSdKOq8jzKJZE9hlx/YsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CAGRI.TEZEL\\Desktop\\TryOuts\\Chapter Two\\F# Projects\\F# Projects.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CAGRI.TEZEL\\.nuget\\packages\\fsharp.core\\4.7.2\\fsharp.core.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
