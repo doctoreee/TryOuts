@@ -1,0 +1,13 @@
+C:\Users\CAGRI.TEZEL\Desktop\TryOuts\Part 2\Chapter Three Builder\bin\Debug\netcoreapp3.1\Chapter Three.exe
+C:\Users\CAGRI.TEZEL\Desktop\TryOuts\Part 2\Chapter Three Builder\bin\Debug\netcoreapp3.1\Chapter Three.deps.json
+C:\Users\CAGRI.TEZEL\Desktop\TryOuts\Part 2\Chapter Three Builder\bin\Debug\netcoreapp3.1\Chapter Three.runtimeconfig.json
+C:\Users\CAGRI.TEZEL\Desktop\TryOuts\Part 2\Chapter Three Builder\bin\Debug\netcoreapp3.1\Chapter Three.runtimeconfig.dev.json
+C:\Users\CAGRI.TEZEL\Desktop\TryOuts\Part 2\Chapter Three Builder\bin\Debug\netcoreapp3.1\Chapter Three.dll
+C:\Users\CAGRI.TEZEL\Desktop\TryOuts\Part 2\Chapter Three Builder\bin\Debug\netcoreapp3.1\Chapter Three.pdb
+C:\Users\CAGRI.TEZEL\Desktop\TryOuts\Part 2\Chapter Three Builder\obj\Debug\netcoreapp3.1\Chapter Three.csprojAssemblyReference.cache
+C:\Users\CAGRI.TEZEL\Desktop\TryOuts\Part 2\Chapter Three Builder\obj\Debug\netcoreapp3.1\Chapter Three.AssemblyInfoInputs.cache
+C:\Users\CAGRI.TEZEL\Desktop\TryOuts\Part 2\Chapter Three Builder\obj\Debug\netcoreapp3.1\Chapter Three.AssemblyInfo.cs
+C:\Users\CAGRI.TEZEL\Desktop\TryOuts\Part 2\Chapter Three Builder\obj\Debug\netcoreapp3.1\Chapter Three.csproj.CoreCompileInputs.cache
+C:\Users\CAGRI.TEZEL\Desktop\TryOuts\Part 2\Chapter Three Builder\obj\Debug\netcoreapp3.1\Chapter Three.dll
+C:\Users\CAGRI.TEZEL\Desktop\TryOuts\Part 2\Chapter Three Builder\obj\Debug\netcoreapp3.1\Chapter Three.pdb
+C:\Users\CAGRI.TEZEL\Desktop\TryOuts\Part 2\Chapter Three Builder\obj\Debug\netcoreapp3.1\Chapter Three.genruntimeconfig.cache
